@@ -45,6 +45,12 @@ const songs = [
     poster: "covers/7.jpg",
   },
   {
+    id: 23,
+    songName: `Zohra Jabeen <br/>
+    <div class="subtitle">Sikandar</div>`,
+    poster: "covers/23.jpg",
+  },
+  {
     id: 8,
     songName: `Wolves <br/>
     <div class="subtitle">Selena Gomez </div>`,
@@ -134,6 +140,7 @@ const songs = [
     <div class="subtitle">M.S.Dhoni</div>`,
     poster: "covers/22.jpg",
   },
+
 ]
 
 
